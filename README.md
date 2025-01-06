@@ -12,7 +12,7 @@ Um supermercado, através de cartões de fidelidade, possui alguns dados básico
 Nesse projeto foi ultilizado varias bibliotecas do Python como: Matplotlib, NumPy ,Pandas ,Scikit-Learn ,Seaborn.
 
 <p align="center"> 
-  <a href="www.linkedin.com/in/jean-augusto-morais" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jean-augusto-morais/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
 ## Objetivos
