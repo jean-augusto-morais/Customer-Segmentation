@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/Author-Jean%20Augusto-red)](www.linkedin.com/in/jean-augusto-morais)
+[![author](https://img.shields.io/badge/Author-Jean%20Augusto-red)](https://www.linkedin.com/in/jean-augusto-morais/)
 [![](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 
 # Segmentação de clientes de um supermercado
